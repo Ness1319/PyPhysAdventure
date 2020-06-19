@@ -1,0 +1,24 @@
+Hello, this is the planning document for the dungeon crawler physics adventure
+** topics will be chosen from the SASTA workbook and study guide **
+
+Topic 1
+1. SUVAT, The basics (motion in one dimension)
+2. Projtile motion (motion in 2 dimensions)
+3. Vectors, working with force / velocity / acceleration
+4. Gravitation
+5. Circular motion through orbits)
+
+Topic 2A
+1. Electric force
+2. Electric field lines
+3. Vector fields (optional)
+4. Potential difference (voltage)
+5. Alternating current / Direct Current (AC/DC)
+6. Particle acceleration
+7. Resistance
+
+Topic 2B
+1. Magentic force
+2. Magnetic field lines
+3. Motion of charges in magnetic field
+...

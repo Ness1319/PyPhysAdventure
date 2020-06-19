@@ -1,2 +1,0 @@
-Hello, this is the planning document for the dungeon crawler physics adventure
-** topics will be chosen from the SASTA workbook and study giode **
