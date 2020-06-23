@@ -2,7 +2,7 @@
 import time
 
 
-def slowprint(text):
+def slow(text):
     str(text)
     for char in text:
         print(char, flush=True, end="")
